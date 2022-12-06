@@ -1,0 +1,1 @@
+import{_ as t,c as e,o,a as c}from"./app.4bd23fa7.js";const h=JSON.parse('{"title":"\u788E\u788E\u5FF5","description":"","frontmatter":{"title":"\u788E\u788E\u5FF5"},"headers":[],"relativePath":"smalltalk/index.md"}'),a={name:"smalltalk/index.md"},s=c("",6),l=[s];function i(d,n,r,p,_,m){return o(),e("div",null,l)}const k=t(a,[["render",i]]);export{h as __pageData,k as default};
